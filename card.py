@@ -1,0 +1,5 @@
+print("=" * 26)
+print("Олександр")
+print("Python Developer (skoro)")
+print("Київ, 2026")
+print("=" * 26)
